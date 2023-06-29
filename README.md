@@ -26,10 +26,11 @@ To run the Vulkan Test project, follow these steps:
 
 Clone the repository to your local machine using Git:
 
-bash
+```bash
 Copy code
 git clone https://github.com/Hloha/Vulkan-test.git
 Install the necessary dependencies:
+```
 
 Vulkan SDK: Ensure you have the Vulkan SDK installed on your system. You can download it from the official Vulkan website (https://www.vulkan.org/sdk).
 CMake: Make sure CMake is installed on your machine. You can download it from the CMake website (https://cmake.org/download).
