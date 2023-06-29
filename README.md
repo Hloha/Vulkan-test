@@ -27,7 +27,6 @@ To run the Vulkan Test project, follow these steps:
 Clone the repository to your local machine using Git:
 
 ```bash
-Copy code
 git clone https://github.com/Hloha/Vulkan-test.git
 Install the necessary dependencies:
 ```
