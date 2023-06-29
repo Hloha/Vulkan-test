@@ -24,16 +24,15 @@ Error handling and validation layers
 ## Installation
 To run the Vulkan Test project, follow these steps:
 
-Clone the repository to your local machine using Git:
+1.Clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/Hloha/Vulkan-test.git
-Install the necessary dependencies:
 ```
-
+1.Install the necessary dependencies:
 Vulkan SDK: Ensure you have the Vulkan SDK installed on your system. You can download it from the official Vulkan website (https://www.vulkan.org/sdk).
 CMake: Make sure CMake is installed on your machine. You can download it from the CMake website (https://cmake.org/download).
-Build the project:
+2.Build the project:
 
 Open a terminal or command prompt and navigate to the project directory.
 Create a build directory:
@@ -48,10 +47,10 @@ Build the project:
 css
 Copy code
 cmake --build .
-Run the application:
+1.Run the application:
+• After a successful build, you should find the executable in the build directory.
+• Execute the application to see the Vulkan test in action.
 
-After a successful build, you should find the executable in the build directory.
-Execute the application to see the Vulkan test in action.
 ## Usage
 Once the Vulkan Test project is built and running, you can explore its features and capabilities. The application should open a window and display a simple rendering using Vulkan.
 
