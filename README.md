@@ -33,23 +33,23 @@ git clone https://github.com/Hloha/Vulkan-test.git
 Vulkan SDK: Ensure you have the Vulkan SDK installed on your system. You can download it from the official Vulkan website (https://www.vulkan.org/sdk).
 CMake: Make sure CMake is installed on your machine. You can download it from the CMake website (https://cmake.org/download).
 2.Build the project:
-
-Open a terminal or command prompt and navigate to the project directory.
-Create a build directory:
-bash
-Copy code
+ • Open a terminal or command prompt and navigate to the project directory.
+ • Create a build directory:
+```bash
 mkdir build
 cd build
-Generate the build files using CMake:
-Copy code
+```
+ • Generate the build files using CMake:
+```bash
 cmake ..
-Build the project:
-css
-Copy code
+ • Build the project:
+```
+```bash
 cmake --build .
+```
 1.Run the application:
-• After a successful build, you should find the executable in the build directory.
-• Execute the application to see the Vulkan test in action.
+ • After a successful build, you should find the executable in the build directory.
+ • Execute the application to see the Vulkan test in action.
 
 ## Usage
 Once the Vulkan Test project is built and running, you can explore its features and capabilities. The application should open a window and display a simple rendering using Vulkan.
