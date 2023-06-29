@@ -48,6 +48,7 @@ cmake ..
 cmake --build .
 ```
 1.Run the application:
+
  • After a successful build, you should find the executable in the build directory.
  • Execute the application to see the Vulkan test in action.
 
