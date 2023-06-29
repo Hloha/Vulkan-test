@@ -1,14 +1,6 @@
 # Vulkan Test
 This repository contains a Vulkan test project developed by Hloha. It serves as a simple demonstration of Vulkan's capabilities and can be used as a starting point for Vulkan-based projects.
 
-## Table of Contents
-Introduction
-Features
-Installation
-Usage
-Contributing
-License
-
 ## Introduction
 Vulkan Test is a project that showcases the usage of the Vulkan API, which is a low-level graphics and compute API. It demonstrates the basic setup required to create a Vulkan application, including the initialization of the Vulkan instance, device, and swap chain. The project includes various rendering techniques, such as vertex and index buffers, shaders, and pipeline creation.
 
