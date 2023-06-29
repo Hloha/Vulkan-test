@@ -42,8 +42,8 @@ cd build
  • Generate the build files using CMake:
 ```bash
 cmake ..
- • Build the project:
 ```
+ • Build the project:
 ```bash
 cmake --build .
 ```
